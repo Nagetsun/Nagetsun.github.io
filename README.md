@@ -1,3 +1,8 @@
+<head>
+    <meta charset="utf-8" />
+    <title>Имя</title>
+    <link rel="stylesheet" href="Main.css" />
+</head>
 <body class="Boby">
     <header class="Header">
         <div class="Item">
