@@ -1,11 +1,3 @@
-﻿<!DOCTYPE html>
-
-<html lang="en-US" xmlns="https://nagetsun.github.io/">
-<head>
-    <meta charset="utf-8" />
-    <title>Name</title>
-    <link rel="stylesheet" href="Main.css" />
-</head>
 <body class="Boby">
     <header class="Header">
         <div class="Item">
